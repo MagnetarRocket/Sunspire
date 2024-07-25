@@ -1,2 +1,2 @@
 # B00merang-Blackout
-Darkness falls upon the Linux desktop with this totally out-of-the-80's CLI-like GTK theme
+80's esque 1-bit GTK 2/3/4 theme patterned after SunView, includes dark & light themes.
